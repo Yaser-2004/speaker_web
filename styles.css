@@ -185,6 +185,11 @@ html, body {
     justify-content: space-between;
     margin: 0 3% 5% 3%;
     padding: 0 3% 0 3%;
+    transition: 0.2s ease-in-out;
+}
+
+.try:hover {
+    color: #ff7002;
 }
 
 .try p {
